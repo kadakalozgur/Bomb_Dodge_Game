@@ -2,6 +2,11 @@
 
 ### - Developed by Özgür Kadakal
 
+**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.
+
+**⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.
+
+
 ---
 
 ## 🖼️ Gameplay Previews
