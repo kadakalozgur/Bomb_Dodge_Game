@@ -25,16 +25,12 @@
 🎯 The goal of the game is to control the character and dodge bombs falling from above.  
 💥 If a bomb hits the character, the game ends.
 
----
-
 ### ✨ Features
 
 - ⌨️ Player movement via keyboard (A-D keys)  
 - 🎲 Randomized bomb drops  
 - 📦 Collision detection system  
 - 🚫 Game Over screen on hit
-
----
 
 🧑‍💻 *This project was developed from scratch by Özgür Kadakal.*  
 📌 *All code and assets are original.*
