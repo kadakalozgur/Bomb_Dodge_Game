@@ -43,16 +43,12 @@
 🎯 Oyundaki amacınız, karakterinizi kontrol ederek üstünüze düşen bombalardan kaçmaktır.  
 💥 Bir bomba size çarptığında oyun sona erer.
 
----
-
 ### ✨ Özellikler
 
 - ⌨️ Klavye (A-D tuşları) ile karakter kontrolü  
 - 🎲 Rastgele bomba düşmesi  
 - 📦 Çarpışma algılama sistemi  
 - 🚫 "Game Over" ekranı
-
----
 
 🧑‍💻 *Bu proje Özgür Kadakal tarafından sıfırdan geliştirilmiştir.*  
 📌 *Tüm kodlar ve içerikler özgündür.*
